@@ -1,0 +1,36 @@
+navbar_entries:
+  - title: Home
+    url: /index
+
+  - title: About
+    url: /about
+
+  - title: Games
+    url: /games
+
+  - title: Blog
+    url: /blog
+
+project_entries:
+  - title: Meadowbrook
+    highlight: BETA
+    url: /index
+    desc: Organize your settlers in the peaceful community of Meadowbrook.
+
+  - title: Forsaken 66
+    highlight: WIP
+    url: /index
+    desc: The pilgrims walk the long roads together to seek the Wishgranter.
+
+footer_entries:
+  - title: Email
+    url: mailto:pipbucksoftware@protonmail.com
+
+  - title: Twitter
+    url: https://twitter.com/pipbucksoftware
+
+  - title: Github
+    url: https://github.com/pipbucksoftware
+
+  - title: Credit
+    url: /credit
